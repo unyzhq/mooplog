@@ -1,0 +1,25 @@
+{
+  "name": "mooplog",
+  "version": "1.0.0",
+  "description": "Compiler for Js2Mindustry-logic.Now, you can use object-oriented thinking for Mindustry Logic programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/unyzhq/mooplog.git"
+  },
+  "keywords": [
+    "mindustry",
+    "compiler",
+    "mindustry-logic",
+    "mlog"
+  ],
+  "author": "unyzhq <unyzhq@outlook.com> (https://github.com/unyzhq)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unyzhq/mooplog/issues"
+  },
+  "homepage": "https://github.com/unyzhq/mooplog#readme"
+}
